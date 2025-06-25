@@ -1,3 +1,2 @@
-rootProject.name = "Adzan_shafa"
+rootProject.name = "dzikir_shafa"
 include ':app'
-include ':audiovisualizer'
