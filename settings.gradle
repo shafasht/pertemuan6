@@ -1,0 +1,3 @@
+rootProject.name = "Adzan_shafa"
+include ':app'
+include ':audiovisualizer'
